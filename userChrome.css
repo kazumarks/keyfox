@@ -17,11 +17,6 @@
   --caption-close-color: 177, 98, 134;
 }
 
-
-/* MIN MAX CLOSE Remove */
-#TabsToolbar > .titlebar-buttonbox-container {
-  visibility: collapse !important;}
-
 /*Basic Settings*/
 
 
@@ -66,12 +61,6 @@
 /* Forward Hide */
 #forward-button[disabled="true"] { display: none !important }
 
-/* Site information button */
-#identity-box { display: none !important }
-
-/* "Shield" icon */
-#tracking-protection-icon-container { display: none !important }
-
 
 /* Simplifying interface */
 
@@ -84,8 +73,11 @@
   border      : none !important;
 }
 
-.titlebar-spacer {
-  display     : none !important;
+.titlebar-placeholder[type="pre-tabs"],
+.titlebar-spacer[type="pre-tabs"] {
+  display: none !important;
+  width: 0px !important;
+  max-width: 0px !important;
 }
 
 #urlbar-background {
