@@ -1,5 +1,5 @@
 # KeyFox
-A simple, minimal OneLiner Keyboard-centered CSS for Firefox.
+A simple, minimal OneLiner __mouse__-centered CSS for Firefox.
 
 **Features:**
 - Minimal interface.
