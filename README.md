@@ -5,7 +5,7 @@ A simple, minimal OneLiner Keyboard-centered CSS for Firefox.
 - Minimal interface.
 - very Simple.
 - Features OneLine Design.
-- Keyboard Centered (More info below).
+- ~~Keyboard Centered (More info below).~~ This fork is actually designed to be mouse-centered
 
 ![image](https://user-images.githubusercontent.com/78948152/136501706-accca691-b9c3-4841-acd7-6bb843d2f422.png)
 
@@ -32,8 +32,14 @@ And when you have multiple sites in history, both of them appear.
 This entire theme is wrapped with **AMOLED Colors**, with **True Black**, and little to no bright colors. It is intended to be used with Systemwide Dark Mode.
 And all the browser elements have been rearranged into a single bar so as to dedicate as much screen visibility as possible. 
 
-### KeyBoard Centered
+### ~~KeyBoard Centered~~ Nah, it's actually mouse centered
 
-I've seen many people complaining about touch-first apps, since they require users to lift their hands off the keyboard and then use the touchpad or mouse, thereby.....making them suffer, I guess? But anyway, this theme has __NO CAPTION BUTTONS__.
+~~I've seen many people complaining about touch-first apps, since they require users to lift their hands off the keyboard and then use the touchpad or mouse, thereby.....making them suffer, I guess? But anyway, this theme has __NO CAPTION BUTTONS__.
 So, Min, Max, Close? Poof! Gone!
-Although you can still control the browser using the buttons on the toolbar, keystrokes are always available.
+Although you can still control the browser using the buttons on the toolbar, keystrokes are always available.~~
+
+This entire fork is supposed to be a mouse-friendly modfication to this __beautiful__ oneliner.
+Here are the list of modifications:
+ - Restored site information and ETP shield
+ - Brought back the caption buttons
+ - Brought back the _some_ spacing in the tab bar so you could actually move the damn thing.
